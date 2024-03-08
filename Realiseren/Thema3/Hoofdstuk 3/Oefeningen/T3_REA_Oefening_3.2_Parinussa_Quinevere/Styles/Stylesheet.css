@@ -1,0 +1,30 @@
+header
+{
+    background-color: lightblue;
+    width: 100vw;
+    height: 20vh;
+    text-align: center;
+}
+
+nav
+{
+    background-color: lightcoral;
+    width: 250px;
+    height: 200px;
+}
+
+section
+{
+    position: absolute;
+    left: 280px;
+    top: 145px;
+}
+
+footer
+{
+    background-color: lightgreen;
+    width: 100vw;
+    height: 75px;
+    text-align: center;
+}
+
