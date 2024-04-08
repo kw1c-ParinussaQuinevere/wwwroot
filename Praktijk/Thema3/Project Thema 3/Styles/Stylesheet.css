@@ -1,90 +1,89 @@
-    /*Namen: Quinevere, Ruzgar, Ayuub*/
-    /*Datum: 26-03-2024*/
+/*Namen: Quinevere, Ruzgar, Ayuub*/
+/*Datum: 26-03-2024*/
 
 
-    /* De dropdown knop tekst kleur wordt zwart, achtergrond kleur wit, tekstgrootte 16px, 16px witruimte en geen randen */
-    .dropbtn
-    {
-        color: black;
-        background-color: white;
-        padding: 16px;
-        font-size: 16px;
-        border: none;
-    }
+/* De dropdown knop tekst kleur wordt zwart, achtergrond kleur wit, tekstgrootte 16px, 16px witruimte en geen randen */
+.dropbtn
+{
+    color: black;
+    background-color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
 
-    /* De dropdown komen naast elkaar te staan */
-    .dropdown
-    {
-        position: relative;
-        display: inline-block;
-    }
+/* De dropdown komen naast elkaar te staan */
+.dropdown
+{
+    position: relative;
+    display: inline-block;
+}
 
-    /* De tekst binnen de dropdown */
-    .dropdown-content
-    {
-        display: none;
-        position: absolute;
-        min-width: 160px;
-        z-index: 1;
-    }
+/* De tekst binnen de dropdown */
+.dropdown-content
+{
+    display: none;
+    position: absolute;
+    min-width: 160px;
+    z-index: 1;
+}
 
-    /* De links binnen je dropdown worden de tekst zwart, 12px witruimte */
-    .dropdown-content a
-    {
-        color: black;
-        padding: 12px;
-        text-decoration: none;
-        display: block;
-    }
+/* De links binnen je dropdown worden de tekst zwart, 12px witruimte */
+.dropdown-content a
+{
+    color: black;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+}
 
-    /* De kleur wordt veranderd als je op dropdown staat */
-    .dropdown-content a:hover
-    {
-        background-color: white;
-    }
+/* De kleur wordt veranderd als je op dropdown staat */
+.dropdown-content a:hover
+{
+    background-color: white;
+}
 
-    .dropdown:hover .dropdown-content
-    {
-        display: block;
-        background-color: #f2f2f2;
-        width: 500px;
-    }
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content
+{
+    display: block;
+    background-color: #f2f2f2;
+    width: 300px;
+}
 
-    /*De achtergrond veranderd van de dropdown button als de content wordt weergeven*/
-    .dropdown:hover .dropbtn
-    {
-        background-color: white;
-        color: gray;
-    }
-    /*De links worden links uitgelijnd en naast elkaar gezet*/
-    .links
-    {
-        position: relative;
-        left: 360px;
-        padding-left: 20px;
-        display: inline-block;
-        text-decoration: none;
-        color: black;
-    }
+/*De achtergrond veranderd van de dropdown button als de content wordt weergeven*/
+.dropdown:hover .dropbtn
+{
+    background-color: white;
+    color: gray;
+}
+/*De links worden links uitgelijnd en naast elkaar gezet*/
+.links
+{
+    position: relative;
+    left: 360px;
+    padding-left: 20px;
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+}
 
-    #lijst
-    {
-        display: inline-block;
-        color: black;
-        list-style: none;
-        text-decoration: none;
-    }
+.Vragenlijst
+{
+    display: inline-block;
+    color: black;
+}
 
-    #voordeel, #bedrijfswagen
-    {
-        width: 730px;
-        height: 450px;
-        border-radius: 10px;
-    }
+#voordeel, #bedrijfswagen
+{
+    width: 730px;
+    height: 450px;
+    border-radius: 10px;
+}
 
-    #logo
-    {
-        text-align: left;
-        width: 150px;
-        height: 85px;
-    }
+#logo
+{
+    text-align: left;
+    width: 150px;
+    height: 85px;
+}

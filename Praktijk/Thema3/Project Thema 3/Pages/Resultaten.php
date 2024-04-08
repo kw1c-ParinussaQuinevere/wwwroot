@@ -17,9 +17,6 @@
         ?>
     </header>
     <main>
-        <h2>
-            Hierbij adviseren wij:
-        </h2>
     </main>
     </body>
     </HTML>

@@ -66,45 +66,36 @@
             <li class="dropdown">
                     <button class="dropbtn">Service</button>
                     <div class="dropdown-content">
-                        <h2>Direct naar</h2>
-                        <a href="#">Werkplaats afspraak inplannen</a>
-                        <a href="#">Bandenwissel afspraak inplannen</a>
-                        <a href="#">Schadeherstel afspraak inplannen</a>
-                        <a href="#">Premium Service afspraak inplannen</a>
-                        <a href="#">Auto verzekeren</a>
-                        <a href="#">Velgenshop</a>
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
                     </div>
             </li>
             <li class="dropdown">
                     <button class="dropbtn">Schade</button>
                     <div class="dropdown-content">
-                        <h2>Direct naar</h2>
-                        <a href="#">Schadeherstel afspraak inplannen</a>
-                        <a href="#">Schade direct digitaal melden</a>
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
                     </div>
             </li>
             <li class="dropdown">
                     <button class="dropbtn">Diensten</button>
                     <div class="dropdown-content">
-                        <h2>Direct naar</h2>
-                        <a href="#">Auto verzekeren</a>
-                        <a href="#">Particulier financieren</a>
-                        <a href="#">Zakelijk financieren</a>
-                        <a href="#">Laadoplossingen</a>
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
                     </div>
             </li>
             <li class="dropdown">
                     <button class="dropbtn">Contact</button>
                     <div class="dropdown-content">
-                        <h2>Direct naar</h2>
-                        <a href="#">Contactformulie</a>
-                        <a href="#">Vestigingen</a>
-                        <a href="#">Klachten</a>
-                        <a href="#">Direct contact</a>
-                        <a href="#">Veelgestelde vragen</a>
+                        <a href="#">Link 1</a>
+                        <a href="#">Link 2</a>
+                        <a href="#">Link 3</a>
                     </div>
             </li>
-            <li id="lijst">
+            <li class="Vragenlijst">
                     <a href="Pages/Vragenlijst.php">Vragenlijst</a>
             </li>
         </ul>
